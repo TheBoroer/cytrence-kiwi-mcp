@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.jpg
+*.png
+!docs/**/*.png
+.DS_Store
+scratch/
+
+# Local secrets and settings (see .env.example)
+.env
